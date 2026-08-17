@@ -1,5 +1,3 @@
 # CB-Nest
-This is a repo for my website. 
-It contains my CB Nest accommodation static website. 
-Testing 1,2
 
+Static website for CB Nest accommodation.
